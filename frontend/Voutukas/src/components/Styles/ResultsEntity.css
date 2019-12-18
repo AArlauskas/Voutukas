@@ -1,0 +1,30 @@
+#head h4 {
+  display: inline;
+}
+
+#timeDate,
+#channel {
+  margin-left: 50px;
+}
+
+#question p {
+  font-size: x-large;
+}
+
+#answers li {
+  font-size: larger;
+  margin-top: 20px;
+  list-style-type: none;
+}
+
+#bar {
+  max-width: 500px;
+}
+
+#properties {
+  margin-left: 30px;
+}
+
+#property {
+  margin-left: 10px;
+}

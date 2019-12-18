@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  color: #FF3454;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.main-heading{
+  color: #4C4C4C;
+  text-align: left;
+  font-weight: 500;
+  font-size: 34px;
+}
+.pink-accent{
+  color: #FF3454;
+  font-weight: 500;
+}
+
+@media(max-width: 576px){
+  .main-heading{
+    font-size: 24px;
+  }
+}
+
+
